@@ -1,4 +1,4 @@
-//20230310 - simple arduino code to robotic orthesis (hand grip) controlled by myoelectric signal
+//20231114 - simple arduino code to robotic orthesis (hand grip) controlled by myoelectric signal
 //3D model available in https://www.thingiverse.com/thing:66818
 //3D case model available in https://www.thingiverse.com/thing:2131085
 //myoelectrical signal sensor (EMG) available in //https://github.com/LENeR-UEL/AD8232_aquisition_circuit 
